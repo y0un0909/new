@@ -1,21 +1,35 @@
-html,body{
-/*   height: 100%; */
+html,
+body {
+  /*   height: 100%; */
 }
-*{ /*모든 태그들*/
- margin: 0;
- padding: 0;
- line-height: 1;
- box-sizing: border-box;
-  
+
+* {
+  /*모든 태그들*/
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  box-sizing: border-box;
+  color: inherit;
+
 }
-h1,h2,h3,h4,h5,h6{
-  font-size: 100%; /* 100%는 16px */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  /* 100%는 16px */
   font-weight: normal;
 }
-a{
-  text-decoration: none; /* 밑줄없애기 */
-  color: black; 
+
+a {
+  text-decoration: none;
+  /* 밑줄없애기 */
 }
-ul{
-  list-style: none;/* ul의 점표시 없애기*/
+
+ul {
+  list-style: none;
+  /* ul의 점표시 없애기*/
 }

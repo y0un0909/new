@@ -2,16 +2,17 @@
   max-width: 1200px;
   margin: 0 auto;
 }
-.padding-bottom{
+
+.padding-bottom {
   padding-bottom: 20rem;
 }
-.block{
+
+.block {
   display: block;
 }
-.currnt-menu{
-   font-weight: bold;
-   font-size: 1.5625 rem;
-}
-.violet{
+
+.current-menu {
+  font-weight: bold;
+  font-size: 1.5625 rem;
   color: blueviolet !important;
 }

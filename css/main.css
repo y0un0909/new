@@ -44,8 +44,8 @@ body {
   font-size: 1.25rem;
   margin: 0 1em;
   line-height: 2rem;
+  cursor: pointer;
 }
-
 .section1 {
   position: relative;
   width: 100%;
